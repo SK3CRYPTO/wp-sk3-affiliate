@@ -1,0 +1,9 @@
+{
+  "name": "SK3 Affiliate",
+  "version": "0.1.0",
+  "download_url": "https://github.com/SK3CRYPTO/wp-sk3-affiliate/releases/download/v0.1/sk3-affiliate.zip",
+  "sections": {
+    "description": "Plugin pour gérer et afficher des liens d’affiliation selon les catégories WordPress.",
+    "changelog": "Initial release."
+  }
+}
